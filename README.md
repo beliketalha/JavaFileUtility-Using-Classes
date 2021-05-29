@@ -1,0 +1,2 @@
+# JavaFileUtility-Using-Classes
+Develop a file management utility in Java. The program displays a menu to user as follows: Create a new file Edit a file Delete a file For creating file, the program should ask for the name of the file and create the file. For editing file, the program should ask for the name of the file and the contents to be overwritten to the file. For deleting a file, the program simply asks for the name of the file to be delete.
